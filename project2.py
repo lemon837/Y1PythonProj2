@@ -1,6 +1,4 @@
 # CITS1401 Project 1 Sem2 2022
-# Frederick Leman
-# Student Number: 22976862
 
 def main(csvfile, SubjIDs):
     output2 = [OP2(csvfile, SubjIDs[0]), OP2(csvfile, SubjIDs[1])]
